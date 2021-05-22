@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='00. Front Page'/>
+        <page name='01. constant and variable'/>
+        <page name='02. basic data types'/>
+        <page name='03. Any, AnyObject, nil'/>
+        <page name='04. Collection Types'/>
+        <page name='05. Function'/>
+    </pages>
+</playground>
