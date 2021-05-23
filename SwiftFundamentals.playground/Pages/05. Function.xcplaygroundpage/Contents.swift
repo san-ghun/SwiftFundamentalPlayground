@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 
 // subject: 05. Function (1단원 중 07)
-// created by Sanghun Park on 2021/05/--.
+// created by Sanghun Park on 2021/05/23.
 
 import Foundation
 
