@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' buildActiveScheme='true'>
+    <pages>
+        <page name='00. Front Page'/>
+        <page name='01. constant and variable'/>
+        <page name='02. basic data types'/>
+        <page name='03. Any, AnyObject, nil'/>
+        <page name='04. Collection Types'/>
+        <page name='05. Function'/>
+        <page name='06. Function advanced'/>
+        <page name='07. Conditional statements'/>
+        <page name='08. Loop statements'/>
+        <page name='09. Optional'/>
+        <page name='10. Optional extractions'/>
+        <page name='11. Struct'/>
+        <page name='12. Class'/>
+        <page name='13. Enum'/>
+        <page name='14. Class vs Struct &amp; Enum'/>
+        <page name='15. Closure'/>
+        <page name='16. Closure advanced'/>
+        <page name='17. Properties'/>
+        <page name='18. Property Observers'/>
+        <page name='19. Inheritance'/>
+        <page name='20. init &amp; deinit'/>
+        <page name='21. Optional Chaining'/>
+        <page name='22. Nil-Coalescing Operator'/>
+        <page name='23. Type Casting'/>
+        <page name='24. assert &amp; guard'/>
+        <page name='25. Protocol'/>
+        <page name='26. Extension'/>
+        <page name='27. Error Handling'/>
+        <page name='28. Higher-order functions'/>
+        <page name='29. In Advance'/>
+    </pages>
+</playground>
