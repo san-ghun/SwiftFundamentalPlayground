@@ -1,7 +1,7 @@
 //: [Previous](@previous)
 
 // subject: 29. In Advance (3단원 중 03)
-// created by Sanghun Park on 2021/05/_.
+// created by Sanghun Park on 2021/05/28.
 
 import Foundation
 
@@ -19,7 +19,11 @@ var str = "Hello, playground"
  - 오류 처리(Error Handling)
  - 불명확 타입(Opaque Types)
  - 프로토콜 지향 프로그래밍(Protocol Oriented Programming)
-
+ 
+ 더 알아보기: 추가적으로 더 알아보면 좋은 개념입니다.
+ - rethrows
+ - defer
+ - flatmap
  */
 
 
