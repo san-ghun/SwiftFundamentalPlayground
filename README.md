@@ -15,7 +15,6 @@ title: Swift 기초 복습용 Xcode Playground
 02. [basic data types](https://github.com/san-ghun/SwiftFundamentalPlayground/blob/main/SwiftFundamentals.playground/Pages/02.%20basic%20data%20types.xcplaygroundpage/Contents.swift)
 03. [Any, AnyObject, nil](https://github.com/san-ghun/SwiftFundamentalPlayground/blob/main/SwiftFundamentals.playground/Pages/03.%20Any%2C%20AnyObject%2C%20nil.xcplaygroundpage/Contents.swift)
 04. [Collection Types](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/04.%20Collection%20Types.xcplaygroundpage/Contents.swift)
-
 05. [Function](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/05.%20Function.xcplaygroundpage/Contents.swift)
 06. [Function advanced](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/06.%20Function%20advanced.xcplaygroundpage/Contents.swift)
 07. [Conditional statements](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/07.%20Conditional%20statements.xcplaygroundpage/Contents.swift)
@@ -41,6 +40,8 @@ title: Swift 기초 복습용 Xcode Playground
 27. [Error Handling](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/27.%20Error%20Handling.xcplaygroundpage/Contents.swift)
 28. [Higher-order functions](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/28.%20Higher-order%20functions.xcplaygroundpage/Contents.swift)
 29. [In Advance](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/29.%20In%20Advance.xcplaygroundpage/Contents.swift)
+
+
 ---
 
 <출처>
