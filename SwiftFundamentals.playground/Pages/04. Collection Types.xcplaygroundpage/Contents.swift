@@ -101,6 +101,11 @@ anyDictionary.removeValue(forKey: "anotherKey")
 anyDictionary["someKey"] = nil
 print(anyDictionary)
 
+// 존재하지 않는 키를 읽으려할 시, nil 반환
+print(anyDictionary["newKey"]) // nil
+// 존재하지 않는 키를 읽으려하지만, nil 외 default 값을 설정 가능
+Print(anyDictionary["newKey", default: "Unknown"]) // Unknown
+
 
 // 3. 불변 Dictionary: let을 사용하여 Dictionary 선언
 let emptyDictionary: [String: String] = [:]
