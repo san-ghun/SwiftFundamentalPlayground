@@ -40,10 +40,11 @@ title: Swift 기초 복습용 Xcode Playground
 27. [Error Handling](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/27.%20Error%20Handling.xcplaygroundpage/Contents.swift)
 28. [Higher-order functions](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/28.%20Higher-order%20functions.xcplaygroundpage/Contents.swift)
 29. [In Advance](https://github.com/san-ghun/SwiftFundamentalPlayground/tree/main/SwiftFundamentals.playground/Pages/29.%20In%20Advance.xcplaygroundpage/Contents.swift)
-
+30. [DispatchQueues: Serial, Concurrent, Async & Sync – Overview]()
 
 ---
 
 <출처>
-1. (야곰, "iOS 프로그래밍을 위한 스위프트 기초", boostcourse.)[https://www.boostcourse.org/mo122]
-2. 
+1. 00 ~ 29 | [야곰, "iOS 프로그래밍을 위한 스위프트 기초", boostcourse.](https://www.boostcourse.org/mo122)
+2. 30 | [iOS Academy, Youtube](https://www.youtube.com/c/iOSAcademy)
+    - 30, [DispatchQueues: Serial, Concurrent, Async, & Sync – Overview](https://www.youtube.com/watch?v=tVJqvPg5i6M)
